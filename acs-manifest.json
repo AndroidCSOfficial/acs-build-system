@@ -23,7 +23,7 @@
       "filename": "android-native-development-kit-arm64-bundle-v1",
       "version": "28.2.13676358",
       "bundle_version": "1",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/android-native-development-kit-arm64-bundle-v1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v28.2.13676358/android-native-development-kit-arm64-bundle-v1",
       "encrypted": true,
       "sha256": "87a9315e9792ceba693bef2d8d4b20e0218cc7bb4821574bab525ff496b7e63b",
       "build_type": "ndk"
@@ -34,7 +34,7 @@
       "filename": "android-native-development-kit-arm32-bundle-v1",
       "version": "28.2.13676358",
       "bundle_version": "1",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/android-native-development-kit-arm32-bundle-v1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v28.2.13676358/android-native-development-kit-arm32-bundle-v1",
       "encrypted": true,
       "sha256": "96d743579b12315e3c31d954aaeaea500fd06139047f3c7b141947d7111357ee",
       "build_type": "ndk"
@@ -45,7 +45,7 @@
       "filename": "android-native-development-kit-x64-bundle-v1",
       "version": "28.2.13676358",
       "bundle_version": "1",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/android-native-development-kit-x64-bundle-v1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v28.2.13676358/android-native-development-kit-x64-bundle-v1",
       "encrypted": true,
       "sha256": "8e534d2a49b3cbd739f4cdaefd0d902658faa71efeb32186c8d990968cd1b4dd",
       "build_type": "ndk"
@@ -56,7 +56,7 @@
       "filename": "android-native-development-kit-arm64-bundle-v2",
       "version": "29.0.14033849",
       "bundle_version": "2",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v29.0.14033849/android-native-development-kit-arm64-bundle-v2",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v29.0.14033849/android-native-development-kit-arm64-bundle-v2",
       "encrypted": true,
       "sha256": "01052a8371938022b6d9c09549ee6a11297621a55c33226673aa0651de1deb13",
       "build_type": "ndk"
@@ -67,7 +67,7 @@
       "filename": "android-native-development-kit-arm32-bundle-v2",
       "version": "29.0.14033849",
       "bundle_version": "2",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v29.0.14033849/android-native-development-kit-arm32-bundle-v2",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v29.0.14033849/android-native-development-kit-arm32-bundle-v2",
       "encrypted": true,
       "sha256": "5938d65d25470d07315756448ddfe0683f9a287fe33472377e215fa46815b1d7",
       "build_type": "ndk"
@@ -78,7 +78,7 @@
       "filename": "android-native-development-kit-x64-bundle-v2",
       "version": "29.0.14033849",
       "bundle_version": "2",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v29.0.14033849/android-native-development-kit-x64-bundle-v2",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v29.0.14033849/android-native-development-kit-x64-bundle-v2",
       "encrypted": true,
       "sha256": "da392b625a042c95357e11733de98d24d913895f14ac8a35febb8d41e6f4478c",
       "build_type": "ndk"
@@ -89,7 +89,7 @@
       "filename": "android-cmake-build-tools-arm64-bundle-v1",
       "version": "4.1.1",
       "bundle_version": "1",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/android-cmake-build-tools-arm64-bundle-v1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v4.1.1/android-cmake-build-tools-arm64-bundle-v1",
       "encrypted": true,
       "sha256": "08055d160e592d838af4d57ce5561792712b0ab1ced18cd250dd16fc65b25898",
       "build_type": "cmake"
@@ -100,7 +100,7 @@
       "filename": "android-cmake-build-tools-arm32-bundle-v1",
       "version": "4.1.1",
       "bundle_version": "1",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/android-cmake-build-tools-arm32-bundle-v1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v4.1.1/android-cmake-build-tools-arm32-bundle-v1",
       "encrypted": true,
       "sha256": "1516fff1e4324a88a519f97614e570fbeb2f48e674d6572496ace588ba075337",
       "build_type": "cmake"
@@ -111,7 +111,7 @@
       "filename": "android-cmake-build-tools-x64-bundle-v1",
       "version": "4.1.1",
       "bundle_version": "1",
-      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/android-cmake-build-tools-x64-bundle-v1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v4.1.1/android-cmake-build-tools-x64-bundle-v1",
       "encrypted": true,
       "sha256": "df899829cbc52596eff6be6e6b2954f9b8f5f9f1ccc027f2814f19cd16f2309d",
       "build_type": "cmake"
