@@ -1,56 +1,120 @@
-[
-  {
-    "id": "android-native-kit",
-    "architecture": "arm64-v8a",
-    "filename": "arm64-v8a-native-kit",
-    "version": "28.2.13676358",
-    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/arm64-v8a-native-kit",
-    "encrypted": true,
-    "sha256": "f105fdd47382ea5e8910ed588f1344068a46ac4adfe4ea1bb12fb24d2f0386f0"
-  },
-  {
-    "id": "android-cmake",
-    "architecture": "arm64-v8a",
-    "filename": "arm64-v8a-cmake",
-    "version": "4.1.1",
-    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/arm64-v8a-cmake",
-    "encrypted": true,
-    "sha256": "a7effd95ee96eeb7088cf7d5df835cf4b63b8f2273a79575777a7feb08bad706"
-  },
-  {
-    "id": "android-native-kit",
-    "architecture": "armeabi-v7a",
-    "filename": "armeabi-v7a-native-kit",
-    "version": "28.2.13676358",
-    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/armeabi-v7a-native-kit",
-    "encrypted": true,
-    "sha256": "0beb0decd774c8c50cb8d84414fb04c3f6c9cdbaf723f75cfb742a980db417d4"
-  },
-  {
-    "id": "android-cmake",
-    "architecture": "armeabi-v7a",
-    "filename": "armeabi-v7a-cmake",
-    "version": "4.1.1",
-    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/armeabi-v7a-cmake",
-    "encrypted": true,
-    "sha256": "d488f0a839c5731dd615e1d63a37d82698ef43263bdc1f447a91249c4cf72dde"
-  },
-  {
-    "id": "android-native-kit",
-    "architecture": "x86_64",
-    "filename": "x64-native-kit",
-    "version": "28.2.13676358",
-    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/x64-native-kit",
-    "encrypted": true,
-    "sha256": "eba333667826a79ecb32b51995c74ea6c7a29de2042ddb72ed838fdc57ee5347"
-  },
-  {
-    "id": "android-cmake",
-    "architecture": "x86_64",
-    "filename": "x64-cmake",
-    "version": "4.1.1",
-    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/x64-cmake",
-    "encrypted": true,
-    "sha256": "a5862d6ce6fa22ec4f4c836807b18830ce4bcb8783224afc933ff3aa51ce3a9b"
-  }
-]
+{
+  "manifest_version": "1.0",
+  "generated_at": "2025-09-25T16:36:52Z",
+  "organization": "AndroidCSOfficial",
+  "repository": "acs-build-system",
+  "total_builds": 9,
+  "ndk_versions": [
+    "28.2.13676358",
+    "29.0.14033849"
+  ],
+  "cmake_versions": [
+    "4.1.1"
+  ],
+  "supported_architectures": [
+    "arm64-v8a",
+    "armeabi-v7a",
+    "x86_64"
+  ],
+  "packages": [
+    {
+      "id": "android-native-kit",
+      "architecture": "arm64-v8a",
+      "filename": "android-native-development-kit-arm64-bundle-v1",
+      "version": "28.2.13676358",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/android-native-development-kit-arm64-bundle-v1",
+      "encrypted": true,
+      "sha256": "87a9315e9792ceba693bef2d8d4b20e0218cc7bb4821574bab525ff496b7e63b",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-native-kit",
+      "architecture": "armeabi-v7a",
+      "filename": "android-native-development-kit-arm32-bundle-v1",
+      "version": "28.2.13676358",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/android-native-development-kit-arm32-bundle-v1",
+      "encrypted": true,
+      "sha256": "96d743579b12315e3c31d954aaeaea500fd06139047f3c7b141947d7111357ee",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-native-kit",
+      "architecture": "x86_64",
+      "filename": "android-native-development-kit-x64-bundle-v1",
+      "version": "28.2.13676358",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/android-native-development-kit-x64-bundle-v1",
+      "encrypted": true,
+      "sha256": "8e534d2a49b3cbd739f4cdaefd0d902658faa71efeb32186c8d990968cd1b4dd",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-native-kit",
+      "architecture": "arm64-v8a",
+      "filename": "android-native-development-kit-arm64-bundle-v2",
+      "version": "29.0.14033849",
+      "bundle_version": "2",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v29.0.14033849/android-native-development-kit-arm64-bundle-v2",
+      "encrypted": true,
+      "sha256": "01052a8371938022b6d9c09549ee6a11297621a55c33226673aa0651de1deb13",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-native-kit",
+      "architecture": "armeabi-v7a",
+      "filename": "android-native-development-kit-arm32-bundle-v2",
+      "version": "29.0.14033849",
+      "bundle_version": "2",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v29.0.14033849/android-native-development-kit-arm32-bundle-v2",
+      "encrypted": true,
+      "sha256": "5938d65d25470d07315756448ddfe0683f9a287fe33472377e215fa46815b1d7",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-native-kit",
+      "architecture": "x86_64",
+      "filename": "android-native-development-kit-x64-bundle-v2",
+      "version": "29.0.14033849",
+      "bundle_version": "2",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v29.0.14033849/android-native-development-kit-x64-bundle-v2",
+      "encrypted": true,
+      "sha256": "da392b625a042c95357e11733de98d24d913895f14ac8a35febb8d41e6f4478c",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-cmake",
+      "architecture": "arm64-v8a",
+      "filename": "android-cmake-build-tools-arm64-bundle-v1",
+      "version": "4.1.1",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/android-cmake-build-tools-arm64-bundle-v1",
+      "encrypted": true,
+      "sha256": "08055d160e592d838af4d57ce5561792712b0ab1ced18cd250dd16fc65b25898",
+      "build_type": "cmake"
+    },
+    {
+      "id": "android-cmake",
+      "architecture": "armeabi-v7a",
+      "filename": "android-cmake-build-tools-arm32-bundle-v1",
+      "version": "4.1.1",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/android-cmake-build-tools-arm32-bundle-v1",
+      "encrypted": true,
+      "sha256": "1516fff1e4324a88a519f97614e570fbeb2f48e674d6572496ace588ba075337",
+      "build_type": "cmake"
+    },
+    {
+      "id": "android-cmake",
+      "architecture": "x86_64",
+      "filename": "android-cmake-build-tools-x64-bundle-v1",
+      "version": "4.1.1",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/android-cmake-build-tools-x64-bundle-v1",
+      "encrypted": true,
+      "sha256": "df899829cbc52596eff6be6e6b2954f9b8f5f9f1ccc027f2814f19cd16f2309d",
+      "build_type": "cmake"
+    }
+  ]
+}
