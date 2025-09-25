@@ -1,0 +1,56 @@
+[
+  {
+    "id": "android-native-kit",
+    "architecture": "arm64-v8a",
+    "filename": "arm64-v8a-native-kit",
+    "version": "28.2.13676358",
+    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/arm64-v8a-native-kit",
+    "encrypted": true,
+    "sha256": "f105fdd47382ea5e8910ed588f1344068a46ac4adfe4ea1bb12fb24d2f0386f0"
+  },
+  {
+    "id": "android-cmake",
+    "architecture": "arm64-v8a",
+    "filename": "arm64-v8a-cmake",
+    "version": "4.1.1",
+    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/arm64-v8a-cmake",
+    "encrypted": true,
+    "sha256": "a7effd95ee96eeb7088cf7d5df835cf4b63b8f2273a79575777a7feb08bad706"
+  },
+  {
+    "id": "android-native-kit",
+    "architecture": "armeabi-v7a",
+    "filename": "armeabi-v7a-native-kit",
+    "version": "28.2.13676358",
+    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/armeabi-v7a-native-kit",
+    "encrypted": true,
+    "sha256": "0beb0decd774c8c50cb8d84414fb04c3f6c9cdbaf723f75cfb742a980db417d4"
+  },
+  {
+    "id": "android-cmake",
+    "architecture": "armeabi-v7a",
+    "filename": "armeabi-v7a-cmake",
+    "version": "4.1.1",
+    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/armeabi-v7a-cmake",
+    "encrypted": true,
+    "sha256": "d488f0a839c5731dd615e1d63a37d82698ef43263bdc1f447a91249c4cf72dde"
+  },
+  {
+    "id": "android-native-kit",
+    "architecture": "x86_64",
+    "filename": "x64-native-kit",
+    "version": "28.2.13676358",
+    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v28.2.13676358/x64-native-kit",
+    "encrypted": true,
+    "sha256": "eba333667826a79ecb32b51995c74ea6c7a29de2042ddb72ed838fdc57ee5347"
+  },
+  {
+    "id": "android-cmake",
+    "architecture": "x86_64",
+    "filename": "x64-cmake",
+    "version": "4.1.1",
+    "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/v4.1.1/x64-cmake",
+    "encrypted": true,
+    "sha256": "a5862d6ce6fa22ec4f4c836807b18830ce4bcb8783224afc933ff3aa51ce3a9b"
+  }
+]
