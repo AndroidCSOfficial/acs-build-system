@@ -3,10 +3,11 @@
   "generated_at": "2025-09-25T16:36:52Z",
   "organization": "AndroidCSOfficial",
   "repository": "acs-build-system",
-  "total_builds": 9,
+  "total_builds": 11,
   "ndk_versions": [
     "28.2.13676358",
-    "29.0.14033849"
+    "29.0.14033849",
+    "27.3.13750724"
   ],
   "cmake_versions": [
     "4.1.1",
@@ -27,6 +28,17 @@
       "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v28.2.13676358/android-native-development-kit-arm64-bundle-v1",
       "encrypted": true,
       "sha256": "87a9315e9792ceba693bef2d8d4b20e0218cc7bb4821574bab525ff496b7e63b",
+      "build_type": "ndk"
+    },
+    {
+      "id": "android-native-kit",
+      "architecture": "arm64-v8a",
+      "filename": "android-ndk-r27d-aarch64-linux-android.tar.xz",
+      "version": "27.3.13750724",
+      "bundle_version": "-1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v27.3.13750724/android-ndk-r27d-aarch64-linux-android.tar.xz",
+      "encrypted": false,
+      "sha256": "0b7ba8e55bbb9ebffc0ecf56d000c4b61aad86da4a51c4d73fc008a7661e13fb",
       "build_type": "ndk"
     },
     {
@@ -100,7 +112,7 @@
       "architecture": "arm64-v8a",
       "filename": "cmake-v3.31.6-aarch64.tar.xz",
       "version": "3.31.6",
-      "bundle_version": "1",
+      "bundle_version": "-1",
       "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v3.31.6/cmake-v3.31.6-aarch64.tar.xz",
       "encrypted": false,
       "sha256": "92c779b969dda55657d9d922391276611f0e6463f9084e21511f736420270e2d",
