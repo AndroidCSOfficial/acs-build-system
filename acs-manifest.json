@@ -9,7 +9,8 @@
     "29.0.14033849"
   ],
   "cmake_versions": [
-    "4.1.1"
+    "4.1.1",
+    "3.31.6"
   ],
   "supported_architectures": [
     "arm64-v8a",
@@ -92,6 +93,17 @@
       "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v4.1.1/android-cmake-build-tools-arm64-bundle-v1",
       "encrypted": true,
       "sha256": "08055d160e592d838af4d57ce5561792712b0ab1ced18cd250dd16fc65b25898",
+      "build_type": "cmake"
+    },
+    {
+      "id": "android-cmake",
+      "architecture": "arm64-v8a",
+      "filename": "cmake-v3.31.6-aarch64.tar.xz",
+      "version": "3.31.6",
+      "bundle_version": "1",
+      "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v3.31.6/cmake-v3.31.6-aarch64.tar.xz",
+      "encrypted": false,
+      "sha256": "92c779b969dda55657d9d922391276611f0e6463f9084e21511f736420270e2d",
       "build_type": "cmake"
     },
     {
