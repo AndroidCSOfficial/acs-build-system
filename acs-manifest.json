@@ -71,7 +71,7 @@
       "bundle_version": "2",
       "url": "https://github.com/AndroidCSOfficial/acs-build-system/releases/download/v29.0.14033849/android-ndk-r29-aarch64-linux-android.tar.xz",
       "encrypted": false,
-      "sha256": "01052a8371938022b6d9c09549ee6a11297621a55c33226673aa0651de1deb13",
+      "sha256": "cb7e2be23c9029f928da61bfdb5314a7ff7bae972c4ec55c353bb08c4874d15d",
       "build_type": "ndk"
     },
     {
